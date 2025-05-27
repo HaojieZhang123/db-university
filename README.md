@@ -23,3 +23,6 @@ Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato l
 
 **Cosa consegnare?**
 Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+# Esercizio
+Utilizzando lo stesso database di ieri, eseguite le query in allegato. Caricate un secondo file nella stessa repo di ieri (`db-university`) con le query di oggi.
